@@ -4,8 +4,8 @@ build-backend = "hatchling.build"
 
 [project]
 name = "misago-pypi-plugin"
-description = "Minimal Misago plugin for testing support for installing plugins from PYPI."
-version = "0.1"
+description = "Minimal Misago plugin for testing support for installing plugins from PyPI."
+version = "0.2"
 authors = [
     { name = "Rafał Pitoń", email = "kontakt@rpiton.com" }
 ]
