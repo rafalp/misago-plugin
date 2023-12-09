@@ -2,8 +2,8 @@ from misago import MisagoPlugin
 
 
 manifest = MisagoPlugin(
-    name="Misago PIP Plugin",
-    description="This plugin has been installed from PIP through pip-install.txt file.",
+    name="Misago PYPI Plugin",
+    description="This plugin has been installed from PYPI because the pip-install.txt file contains its name.",
     license="GNU GPL v2",
     icon="fa-solid fa-download",
     color="#006dad",

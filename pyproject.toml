@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "misago-plugin"
+name = "misago-pypi-plugin"
 description = "Minimal Misago plugin for testing support for installing plugins from PYPI."
 version = "0.1"
 authors = [
@@ -22,4 +22,4 @@ classifiers = [
 ]
 
 [tool.hatch.build]
-include = ["misago_plugin/**/*.py"]
+include = ["misago_pypi_plugin/**/*.py"]
