@@ -2,12 +2,12 @@ from misago import MisagoPlugin
 
 
 manifest = MisagoPlugin(
-    name="Misago PYPI Plugin",
-    description="This plugin has been installed from PYPI because the pip-install.txt file contains its name.",
+    name="Misago PyPI Plugin",
+    description="This plugin has been installed from PyPI because the pip-install.txt file contains its name.",
     license="GNU GPL v2",
     icon="fa-solid fa-download",
     color="#006dad",
-    version="0.1",
+    version="0.2",
     author="Rafał Pitoń",
     homepage="https://misago-project.org",
     sponsor="https://github.com/sponsors/rafalp",
